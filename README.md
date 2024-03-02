@@ -9,6 +9,8 @@ Sorting efficiency program: This program reads from a data file and allows the u
 
 Library program: This program is designed to simulate an online library software. The project serves to demonstrate my abilities using java.
 
+Simple animation: This program uses java libraries to showcase basic animation abilities.
+
 Timeline: Projects developed during 2021-2022 (grade 11 and 12 of my high school career)
 
 Usage: Pull the repository or copy source files and run on an IDE of your choice.
